@@ -1,4 +1,4 @@
-# facebook-focus-mode
+# ![icon](https://raw.githubusercontent.com/CezaryDanielNowak/facebook-focus-mode/master/chrome-fb-focus-mode/48.png) facebook-focus-mode
 extension for Chrome, Firefox, TemperMonkey or GreaseMonkey to hide everything but chat on Facebook. It also makes a chats bigger.
 
 # Download
