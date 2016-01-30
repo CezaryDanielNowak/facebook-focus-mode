@@ -2,7 +2,7 @@
 extension for Chrome, Firefox, TemperMonkey or GreaseMonkey to hide everything but chat on Facebook. It also makes a chats bigger.
 
 # Download
-[Chrome extension](release/chrome-fb-focus-mode.crx)
+[Chrome extension](https://github.com/CezaryDanielNowak/facebook-focus-mode/raw/master/release/chrome-fb-focus-mode.crx)
 
 Firefox: TODO
 
